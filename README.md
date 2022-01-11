@@ -1,7 +1,7 @@
 # Heey, eu sou o Matheus Camba.
 <li>De vários mundos 😄</li>
 <li>Tenho um shi-tzu com alma de lobo chamado Sheldon 🐺</li>
-<li>Fã de praticamente tudo da cultura pop/geek 🤓</li>
+<li>Fã de praticamente tudo da cultura pop/geek  🤓</li>
 
 #
 
